@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation and performance with our cutting-edge solutions. Experience the future today and lead the change in your industry.",
+        "title": "Discover the Revolution in Technology"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation and performance with our cutting-edge solutions. Experience the future today and lead the change in your industry.",
+        "title": "Discover the Revolution in Technology"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation and performance with our cutting-edge solutions. Experience the future today and lead the change in your industry.",
+        "title": "Discover the Revolution in Technology"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation and performance with our cutting-edge solutions. Experience the future today and lead the change in your industry.",
+        "title": "Discover the Revolution in Technology"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation and performance with our cutting-edge solutions. Experience the future today and lead the change in your industry.",
+        "title": "Discover the Revolution in Technology"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation and performance with our cutting-edge solutions. Experience the future today and lead the change in your industry.",
+        "title": "Discover the Revolution in Technology"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation and performance with our cutting-edge solutions. Experience the future today and lead the change in your industry.",
+        "title": "Discover the Revolution in Technology"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation and performance with our cutting-edge solutions. Experience the future today and lead the change in your industry.",
+        "title": "Discover the Revolution in Technology"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Discover the Revolution in Technology",
+  "subtitle": "Unlock unparalleled innovation and performance with our cutting-edge solutions. Experience the future today and lead the change in your industry."
+}
